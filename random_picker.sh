@@ -2,3 +2,6 @@
 mv ./log20170630/log20170630.csv `find /usr -type d | shuf -n 1`
 
 
+g;hgarg'rgrg;argn
+graegsrg
+srgsrg
